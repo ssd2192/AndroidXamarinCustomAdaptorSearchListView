@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\MobileDevelopment\\Assignment\\AssignmentOneSolution\\Assignment1_UI_Design\\Assignment1_UI_Design\\Assignment1_UI_Design.csproj": {}
+  },
+  "projects": {
+    "D:\\MobileDevelopment\\Assignment\\AssignmentOneSolution\\Assignment1_UI_Design\\Assignment1_UI_Design\\Assignment1_UI_Design.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MobileDevelopment\\Assignment\\AssignmentOneSolution\\Assignment1_UI_Design\\Assignment1_UI_Design\\Assignment1_UI_Design.csproj",
+        "projectName": "Assignment1_UI_Design",
+        "projectPath": "D:\\MobileDevelopment\\Assignment\\AssignmentOneSolution\\Assignment1_UI_Design\\Assignment1_UI_Design\\Assignment1_UI_Design.csproj",
+        "packagesPath": "C:\\Users\\aman1\\.nuget\\packages\\",
+        "outputPath": "D:\\MobileDevelopment\\Assignment\\AssignmentOneSolution\\Assignment1_UI_Design\\Assignment1_UI_Design\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aman1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid81"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid81": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid81": {
+          "dependencies": {
+            "SQLite": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.110, )"
+            },
+            "System.Data.SQLite.Core": {
+              "target": "Package",
+              "version": "[1.0.110, )"
+            },
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.CustomTabs": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "sqlite-net": {
+              "target": "Package",
+              "version": "[1.0.8, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment1_UI_Design</string>
+    <string name="action_settings">Settings</string>
+  <string name="textView_display">Entered Strings</string>
+</resources>
